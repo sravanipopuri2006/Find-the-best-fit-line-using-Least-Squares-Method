@@ -48,7 +48,7 @@ plt.show()
 ```
 
 ## Output:
-![alt text](output.png)
+![alt text](output1.png)
 
 
 ## Result:
